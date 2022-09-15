@@ -1,9 +1,15 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 """
-This module defines a class called Square
+Created on Tue May 19 14:21:54 2020
+@author: Robinson Montes
 """
 
 
 class Square:
-    """Initialing the class Square"""
+    """Empty class Square that defines a square
+
+    Attributes:
+        empty
+    """
     pass
