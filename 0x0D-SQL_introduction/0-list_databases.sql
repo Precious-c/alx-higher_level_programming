@@ -1,1 +1,2 @@
-SELECT name FROM master.dbo.sysdatabases
+-- Displays list of Databases 
+SHOW DATABASES
